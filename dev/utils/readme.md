@@ -1,0 +1,3 @@
+# Utils
+
+This folder contains shared utils for components, such as common functions, constants, etc...
